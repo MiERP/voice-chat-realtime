@@ -228,4 +228,4 @@ dmypy.json
 .coverage
 cover/
 .tox/
-uv.lock
+uv.lock.worktrees/
